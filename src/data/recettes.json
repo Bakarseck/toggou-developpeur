@@ -1,0 +1,20 @@
+[
+     {
+          "id": 1,
+          "name": "Thiebou Dieune",
+          "image": "/thiebou_dieune.png",
+          "description": "Description..."
+     },
+     {
+          "id": 2,
+          "name": "Yassa Guinaar",
+          "image": "/yassa.png",
+          "description": "Description..."
+     },
+     {
+          "id": 3,
+          "name": "Lakh",
+          "image": "/lakh.png",
+          "description": "Description..."
+     }
+]
